@@ -4,6 +4,7 @@
   "description": "Element UI and Vue based Html UI for CV lab (face detecting, face comparing and Chinese plate number recognition)",
   "author": "Vincent Yang <shineyjg@gmail.com>",
   "private": true,
+  "license": "GPL v3.0",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
