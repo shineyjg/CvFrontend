@@ -2,6 +2,8 @@
 
 > Element UI and Vue based Html UI for CV lab (face detecting, face comparing and Chinese plate number recognition) by Vincent Yang (shineyjg@gmail.com)
 
+this project will generate html/js files into https://github.com/shineyjg/CvWebServer as static resources 
+
 ## Build Setup
 
 ``` bash
